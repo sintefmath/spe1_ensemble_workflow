@@ -1,0 +1,4 @@
+dataset_url: https://github.com/sintefmath/spe1_ensemble_workflow/archive
+dataset_name: master.zip
+input_ensemble_base: spe1_ensemble_workflow-main/example
+input_ensemble_file: spe1.ert
